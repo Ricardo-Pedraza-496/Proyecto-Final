@@ -1,0 +1,16 @@
+body{
+background-color: #000000b4;
+color: #ffffff;
+}
+
+footer{
+    background-color: #30A6E6;
+	color:#ffffff;
+}
+
+h1{
+	color: #ffffff;
+	border: solid thin rgba(237, 240, 82, 0.774);
+	padding:10px;
+	margin:20px;
+}
